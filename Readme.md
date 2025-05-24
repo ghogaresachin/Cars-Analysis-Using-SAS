@@ -77,8 +77,9 @@ The dataset contains 100 observations with the following variables:
      PAIRED mpg_after*mpg_before;
      TITLE "MPG Change Over Mileage";
    RUN;
+---
 
-   ## 👤 Author
+## 👤 Author
 
 **[Sachin Ghogare]**  
 Master's in Applied Statistics  
