@@ -17,6 +17,7 @@ The dataset contains 100 observations with the following variables:
    ```sas
    avg_mpg = (mpg_before + mpg_after)/2
 
+---
 
 ## 🔍 Key Findings from SAS Analysis
 
@@ -49,6 +50,8 @@ The dataset contains 100 observations with the following variables:
 |---------------|----------------|----------|----------|----------------|
 | Horsepower    | Gamma          | -        | -        | Poor fit for >400HP |
 | MPG Before    | Weibull        | -0.3165  | -0.1679  | Left-skew challenges fit |
+
+---
 
 ## 📊 Visualization Insights
 1. **Horsepower Distribution**
